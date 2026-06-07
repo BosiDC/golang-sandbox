@@ -1,1 +1,1 @@
-package implicitassignment
+package main
